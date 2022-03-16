@@ -1,4 +1,4 @@
-# OC-P5-•	Segmentation des clients d'un site e-commerce (Customers clustering of an e-commerce site).
+# OC-P5-Segmentation des clients d'un site e-commerce (Customers clustering of an e-commerce site).
 
 ## Objectives
 
